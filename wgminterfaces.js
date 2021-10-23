@@ -5,7 +5,7 @@ inquirer
     {
       type: 'list',
       name: 'wgminterfaces',
-      message: 'Which wallet do you like?',
+      message: 'Which WGMInterfaces do you like?',
       choices: ['rainbow', 'verified', 'gm', 'browser'],
     },
   ])
